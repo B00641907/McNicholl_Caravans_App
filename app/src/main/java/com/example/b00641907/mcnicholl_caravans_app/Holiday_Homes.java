@@ -13,6 +13,6 @@ public class Holiday_Homes extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.Holiday_Homes, container, false);
+        return inflater.inflate(R.layout.holiday_homes, container, false);
     }
 }

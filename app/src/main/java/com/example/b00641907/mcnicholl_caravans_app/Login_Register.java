@@ -13,6 +13,6 @@ public class Login_Register extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.Login_Register, container, false);
+        return inflater.inflate(R.layout.login_register, container, false);
     }
 }
